@@ -1,3 +1,5 @@
 Git init :-will create History (repository)
 Git status :- It will give status of untracked file
 git add ____ :- It will give file to staging area
+git commit -m :- it will commite the changes
+git restore --staged :- to restore the commited file

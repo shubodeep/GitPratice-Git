@@ -2,5 +2,9 @@ Git init :-will create History (repository)
 Git status :- It will give status of untracked file
 git add ____ :- It will give file to staging area
 git commit -m :- it will commite the changes
-git restore --staged :- to restore the commited file
+git restore --staged :- to restore the commit
 git log :- it will show logs and history of data
+rm -rf :-To remove any file (gitbash)
+git reset:- It is use to reset the prvious stage 
+git stash :-if we want to back in the project
+git stash pop :-it bring file back from staging area

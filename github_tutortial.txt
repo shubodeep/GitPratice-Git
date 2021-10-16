@@ -6,6 +6,7 @@ git commit -m :- it will commite the changes
 git restore --staged :- to restore the commit
 git log :- it will show logs and history of data
 rm -rf :-To remove any file (gitbash)
-git reset:- It is use to reset the prvious stage 
+git reset:- It is use to reset the prvious stage (basically we have to give hash code here to commite to go privous stage)
 git stash :-if we want to back in the project
 git stash pop :-it bring file back from staging area
+git remote add origin URL:-If we want to add git repository to local project

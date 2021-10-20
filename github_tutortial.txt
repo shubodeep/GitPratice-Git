@@ -10,3 +10,6 @@ git reset:- It is use to reset the prvious stage (basically we have to give hash
 git stash :-if we want to back in the project
 git stash pop :-it bring file back from staging area
 git remote add origin URL:-If we want to add git repository to local project
+fork :- it is use to copy the git project into your own project
+git branch:-this is use to create an seprate branch(To genrate a new pull request you have to create a new branch for that)
+git checkout :- now the pointer will move to 
